@@ -29,9 +29,9 @@ I live in Sofia, Bulgaria currently studying at for C# Web Developer at Software
 
 
 ### IDEs
-![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=orange&style=plastic&logo=visual-studio)
-![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=orange&style=plastic&logo=visual-studio-code)
-![](https://img.shields.io/static/v1?label=Code&message=MSSQL&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server)
+![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=purple&style=plastic&logo=visual-studio)
+![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=blue&style=plastic&logo=visual-studio-code)
+![](https://img.shields.io/static/v1?label=DB&message=MSSQL&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server)
 
 
 ## :chart_with_upwards_trend: Github Stats
