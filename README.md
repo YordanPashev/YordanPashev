@@ -32,7 +32,7 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 ### IDEs
 ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=purple&style=plastic&logo=visual-studio) ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=blue&style=plastic&logo=visual-studio-code) 
 ###  Databases
-![](https://img.shields.io/static/v1?label=DB&message=MSSQL Server&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server) 
+![](https://img.shields.io/static/v1?label=DB&message=MSSQL%20Server&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server) 
 
 
 ---
