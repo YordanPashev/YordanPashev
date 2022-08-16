@@ -25,7 +25,7 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 
 ### 🛠 Tech Stack 
 
-*  Programming &nbsp;
+*  Programming <br />
 ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
 * Technologies 
 ![](https://img.shields.io/static/v1?label=.NET&message=EF%20Core&color=purple&style=plastic&logo=EF) ![](https://img.shields.io/static/v1?label=%20.NET%20Framework&message=ADO.NET&color=purple&style=plastic&logo=ADO.NET)
