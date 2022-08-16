@@ -34,7 +34,7 @@ I live in Sofia, Bulgaria currently studying at for C# Web Developer at Software
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/vassdeniss/vassdeniss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YordanPashev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YordanPashev&line_height=27&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true" />
 </a>
 <a href="https://github.com/vassdeniss/vassdeniss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
