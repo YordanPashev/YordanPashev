@@ -11,6 +11,8 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 * [Software University - C# OOP - June 2022](https://softuni.bg/certificates/details/141075/0373070f)
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138461/2459459f)
 
+---
+
 ## :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
 * [C# Fundamentals](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022)
@@ -19,12 +21,16 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 * [MS SQL](https://github.com/YordanPashev/MSSQL-May2022)
 * [Entity Framework Core](https://github.com/YordanPashev/EntityFrameworkCore-June2022)
 
+---
+
 ### 🛠 Tech Stack 
 
 #  **⌨** ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL) &nbsp;
 # **🌐** ![](https://img.shields.io/static/v1?label=.NET&message=EF%20Core&color=purple&style=plastic&logo=EF) ![](https://img.shields.io/static/v1?label=%20.NET%20Framework&message=ADO.NET&color=purple&style=plastic&logo=ADO.NET)&nbsp; 
-#  **🛢** nbsp;nbsp;  ![](https://img.shields.io/static/v1?label=DB&message=MSSQL&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server)
+#  **🛢** ![](https://img.shields.io/static/v1?label=DB&message=MSSQL&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server)
 # **🖥** ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=purple&style=plastic&logo=visual-studio) ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=blue&style=plastic&logo=visual-studio-code) &nbsp;
+
+---
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/vassdeniss/vassdeniss">
