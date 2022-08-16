@@ -21,10 +21,10 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 
 ### 🛠 Tech Stack 
 
-# **⌨**  ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
-# **🌐** ![](https://img.shields.io/static/v1?label=Framework&message=EF%20Core&color=purple&style=plastic&logo=EF)
-# **🛢**  ![](https://img.shields.io/static/v1?label=DB&message=MSSQL&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server)
-# **🖥** ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=purple&style=plastic&logo=visual-studio) ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=blue&style=plastic&logo=visual-studio-code) 
+# **⌨** - ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
+# **🌐** - ![](https://img.shields.io/static/v1?label=Framework&message=EF%20Core&color=purple&style=plastic&logo=EF)
+# **🛢** - ![](https://img.shields.io/static/v1?label=DB&message=MSSQL&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server)
+# **🖥** - ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=purple&style=plastic&logo=visual-studio) ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=blue&style=plastic&logo=visual-studio-code) 
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/vassdeniss/vassdeniss">
