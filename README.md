@@ -2,7 +2,7 @@
 My name is Yordan Pashev! 
 I live in Sofia, Bulgaria currently studying for C# Web Developer at Software University.
 
-### :bookmark_tabs: Certificates
+### :bookmark_tabs: SoftUni Certificates
 
 * [Software University - C# Basics - October 2021](https://softuni.bg/certificates/details/118236/44d7089c)
 * [Software University - C# Fundamentals - January 2022](https://softuni.bg/certificates/details/130032/4b010168)
@@ -19,9 +19,9 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 * [MS SQL](https://github.com/YordanPashev/MSSQL-May2022)
 * [Entity Framework Core](https://github.com/YordanPashev/EntityFrameworkCore-June2022)
 
-## 🛠 Tech Stack 
+### 🛠 Tech Stack 
 
-- **💻** ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
+- **💻**  ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
 &nbsp; 
 - 🌐 ![](https://img.shields.io/static/v1?label=Framework&message=EF%20Core&color=purple&style=plastic&logo=EF) &nbsp; 
 - 🛢 
