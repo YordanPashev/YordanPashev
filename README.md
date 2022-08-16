@@ -2,7 +2,9 @@
 My name is Yordan Pashev! 
 I live in Sofia, Bulgaria currently studying for C# Web Developer at Software University.
 
-## :### :bookmark_tabs: Softuni Certificates
+## :computer: Softuni Certificates
+
+### :bookmark_tabs: Certificates
 
 * [Software University - C# Basics - October 2021](https://softuni.bg/certificates/details/118236/44d7089c)
 * [Software University - C# Fundamentals - January 2022](https://softuni.bg/certificates/details/130032/4b010168)
