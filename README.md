@@ -19,7 +19,6 @@ I live in Sofia, Bulgaria currently studying at for C# Web Developer at Software
 * [MS SQL](https://github.com/YordanPashev/MSSQL-May2022)
 * [Entity Framework Core](https://github.com/YordanPashev/EntityFrameworkCore-June2022)
 
-
 ## :wrench: Tools 
 
 ### Programming
@@ -37,5 +36,5 @@ I live in Sofia, Bulgaria currently studying at for C# Web Developer at Software
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YordanPashev&line_height=27&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true" />
 </a>
 <a href="https://github.com/vassdeniss/vassdeniss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordanPashev&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
 </a>
