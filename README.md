@@ -11,8 +11,6 @@ I live in Sofia, Bulgaria currently studying at for C# Web Developer at Software
 * [Software University - C# OOP - June 2022](https://softuni.bg/certificates/details/141075/0373070f)
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138461/2459459f)
 
-currently I am studing.. 
-
 ### :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
 * [C# Fundamentals](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022)
@@ -36,7 +34,7 @@ currently I am studing..
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/vassdeniss/vassdeniss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vassdeniss&line_height=27&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YordanPashev" />
 </a>
 <a href="https://github.com/vassdeniss/vassdeniss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassdeniss&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
