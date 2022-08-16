@@ -2,7 +2,7 @@
 My name is Yordan Pashev! 
 I live in Sofia, Bulgaria currently studying for C# Web Developer at Software University.
 
-## :bookmark_tabs: SoftUni Certificates
+# :bookmark_tabs: SoftUni Certificates
 
 * [Software University - C# Basics - October 2021](https://softuni.bg/certificates/details/118236/44d7089c)
 * [Software University - C# Fundamentals - January 2022](https://softuni.bg/certificates/details/130032/4b010168)
@@ -13,7 +13,7 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 
 ---
 
-## :mortar_board: SoftUni Repositories
+# :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
 * [C# Fundamentals](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022)
 * [C# Advanced](https://github.com/YordanPashev/CSharpAdvanced-May2022)
@@ -23,7 +23,7 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 
 ---
 
-### 🛠 Tech Stack 
+# 🛠 Tech Stack 
 
 ### Programming <br />
 ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
