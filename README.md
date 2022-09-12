@@ -15,6 +15,7 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 
 # 💻 Projects
 * [PetStore](https://github.com/YordanPashev/PetStore)
+* [SimpleSnake](https://github.com/YordanPashev/SImpleSnake)
 
 # :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
