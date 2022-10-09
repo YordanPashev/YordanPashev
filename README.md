@@ -10,7 +10,7 @@ I live in Sofia, Bulgaria currently studying for C# Web Developer at Software Un
 * [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/135044/d87979ae)
 * [Software University - C# OOP - June 2022](https://softuni.bg/certificates/details/141075/0373070f)
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138461/2459459f)
-[Software University -  ASP.NET Fundamentals - September 2022](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022)
+* [Software University -  ASP.NET Fundamentals - September 2022](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022)
 
 ---
 
