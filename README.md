@@ -29,6 +29,7 @@ I am aslo studying for C# Web Developer at Software University.
 * [C# OOP](https://github.com/YordanPashev/CSharpOOP-June2022)
 * [MS SQL](https://github.com/YordanPashev/MSSQL-May2022)
 * [Entity Framework Core](https://github.com/YordanPashev/EntityFrameworkCore-June2022)
+* [ASP.NET Fundamentals](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022)
 
 ---
 
