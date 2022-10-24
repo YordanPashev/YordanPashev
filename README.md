@@ -37,13 +37,14 @@ I am aslo studying for C# Web Developer at Software University.
 
 ### Programming <br />
 ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
+
 ### Technologies 
-![](https://img.shields.io/static/v1?label=.NET&message=EF%20Core&color=purple&style=plastic&logo=EF) ![](https://img.shields.io/static/v1?label=%20.NET%20Framework&message=ADO.NET&color=purple&style=plastic&logo=ADO.NET) ![](https://img.shields.io/static/v1?label=%20Web%20Framework&message=ASP.NET&color=purple&style=plastic&logo=.NET)
+![](https://img.shields.io/static/v1?label=.NET&message=EF%20Core&color=purple&style=plastic&logo=.NET) ![](https://img.shields.io/static/v1?label=%20.NET%20Framework&message=ADO.NET&color=purple&style=plastic&logo=.NET) ![](https://img.shields.io/static/v1?label=%20Web%20Framework&message=ASP.NET&color=purple&style=plastic&logo=.NET) ![](https://img.shields.io/static/v1?label=Development%20Framework&message=Razor%20Pages&color=orange&style=plastic&logo=.NET)
+
 ### IDEs
 ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=purple&style=plastic&logo=visual-studio) ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=blue&style=plastic&logo=visual-studio-code) ![](https://img.shields.io/static/v1?label=IDE&message=Slim%20Studio&color=lightblue&style=plastic&logo=visual-studio-code)
 ###  Databases
 ![](https://img.shields.io/static/v1?label=RDBMS&message=Microsoft%20SQL%20Server&color=yellow&style=plastic&logo=Microsoft%20SQL%20Server) 
-
 
 ---
 
