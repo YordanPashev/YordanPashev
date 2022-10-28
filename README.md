@@ -21,6 +21,7 @@ I am aslo studying for C# Web Developer at Software University.
 * [PetStore](https://github.com/YordanPashev/PetStore)
 * [SimpleSnake](https://github.com/YordanPashev/SImpleSnake)
 * [ForumApp](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/02.%20Workshop%20Forum%20App%20(CRUD%20Operations)/ForumApp)
+* [Watchlist](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/04.%20Exam%20Preparation/Watchlist)
 
 # :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
