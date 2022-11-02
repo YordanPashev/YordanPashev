@@ -13,7 +13,7 @@ I am aslo studying for C# Web Developer at Software University.
 * [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/135044/d87979ae)
 * [Software University - C# OOP - June 2022](https://softuni.bg/certificates/details/141075/0373070f)
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138461/2459459f)
-* [Software University -  ASP.NET Fundamentals - September 2022](https://softuni.bg/users/profile/certificates?username=Yordan.Pashev)
+* [Software University -  ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146588/edf89476)
 
 ---
 
