@@ -22,7 +22,7 @@ I am aslo studying for C# Web Developer at Software University.
 * [SimpleSnake](https://github.com/YordanPashev/SImpleSnake)
 * [ForumApp](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/02.%20Workshop%20Forum%20App%20(CRUD%20Operations)/ForumApp)
 * [Watchlist](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/04.%20Exam%20Preparation/Watchlist)
-* [TaskBoardApp](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/03.%20Workshop%20-%20Authentication%20for%20the%20Task%20Board%20App/TaskBoardApp/TaskBoardApp)
+* [TaskBoardApp](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/03.%20Workshop%20-%20Authentication%20for%20the%20Task%20Board%20App/TaskBoardApp)
 
 # :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
