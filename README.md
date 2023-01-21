@@ -1,7 +1,7 @@
 # Hello!
 My name is Yordan Pashev! 
 
-I live in Sofia, Bulgaria and I am Technology Consultant with C# at FactSet. 
+I live in Sofia, Bulgaria and I am Report Developer with C# at FactSet. 
 
 I am aslo studying for C# Web Developer at Software University.
 
