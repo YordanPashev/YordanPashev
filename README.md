@@ -3,8 +3,6 @@ My name is Yordan Pashev!
 
 I live in Sofia, Bulgaria and I am Report Developer with C# at FactSet. 
 
-I am aslo studying for C# Web Developer at Software University.
-
 # :bookmark_tabs: SoftUni Certificates
 
 * [Software University - C# Basics - October 2021](https://softuni.bg/certificates/details/118236/44d7089c)
