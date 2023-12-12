@@ -12,6 +12,7 @@ I live in Sofia, Bulgaria and I am Report Developer with C# at FactSet.
 * [Software University - C# OOP - June 2022](https://softuni.bg/certificates/details/141075/0373070f)
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138461/2459459f)
 * [Software University -  ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146588/edf89476)
+* [Software University -  HTML & CSS - September 2023](https://softuni.bg/certificates/details/191061/c495a1dc)
 
 ---
 
@@ -25,6 +26,7 @@ I live in Sofia, Bulgaria and I am Report Developer with C# at FactSet.
 # :mortar_board: SoftUni Repositories
 * [C# Basics](https://github.com/YordanPashev/CSHarpBasic-October2021)
 * [C# Fundamentals](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022)
+* [HTML & CSS](https://github.com/YordanPashev/HTML-CSS-September2023)
 * [C# Advanced](https://github.com/YordanPashev/CSharpAdvanced-May2022)
 * [C# OOP](https://github.com/YordanPashev/CSharpOOP-June2022)
 * [MS SQL](https://github.com/YordanPashev/MSSQL-May2022)
