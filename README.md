@@ -18,7 +18,6 @@ Based in Sofia, Bulgaria, Report Developer with C# at FactSet.
 ---
 
 # 💻 Projects
-* [PetStore](https://github.com/YordanPashev/PetStore)
 * [SimpleSnake](https://github.com/YordanPashev/SImpleSnake)
 * [ForumApp](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/02.%20Workshop%20Forum%20App%20(CRUD%20Operations)/ForumApp)
 * [Watchlist](https://github.com/YordanPashev/ASP.NET-Fundamentals-September2022/tree/main/04.%20Exam%20Preparation/Watchlist)
