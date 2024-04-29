@@ -39,7 +39,7 @@ Based in Sofia, Bulgaria, Report Developer with C# at FactSet.
 # 🛠 Tech Stack 
 
 ### Programming <br />
-![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL)
+![](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&style=plastic&logo=C-sharp) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=critical&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=blue&style=plastic&logo=HTML5) ![](https://img.shields.io/static/v1?label=Code&message=SQL&color=9cf&style=plastic&logo=TransactSQL) ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=yellow&style=plastic&logo=JavaScript)
 
 ### Technologies 
 ![](https://img.shields.io/static/v1?label=.NET&message=EF%20Core&color=purple&style=plastic&logo=.NET) ![](https://img.shields.io/static/v1?label=%20.NET%20Framework&message=ADO.NET&color=purple&style=plastic&logo=.NET) ![](https://img.shields.io/static/v1?label=%20Web%20Framework&message=ASP.NET&color=purple&style=plastic&logo=.NET) ![](https://img.shields.io/static/v1?label=Development%20Framework&message=Razor%20Pages&color=orange&style=plastic&logo=.NET)
