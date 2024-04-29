@@ -13,6 +13,7 @@ Based in Sofia, Bulgaria, Report Developer with C# at FactSet.
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138461/2459459f)
 * [Software University -  ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146588/edf89476)
 * [Software University -  HTML & CSS - September 2023](https://softuni.bg/certificates/details/191061/c495a1dc)
+* [Software University -  ASP.NET Advanced February 2024](https://softuni.bg/certificates/details/215114/b7f0ab2c)
 
 ---
 
